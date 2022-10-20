@@ -1,0 +1,34 @@
+
+}
+.container {
+	max-width: 1300px;
+	width: 100%;
+	margin: auto;
+}
+.card {
+	width: 300px; 
+	border-radius: 15px;
+	display: inline-block;
+	margin: 0 20;
+	vertical-align: middle;
+	position: relative;
+}
+.card img {
+	width: 100%;
+	border-radius: 15px;
+}
+
+.card p {
+	font-size: 15px;
+	text-transform: uppercase;
+	padding: 20px 10px;
+	border-radius: 10px;
+	background-color: rgba(203, 197, 197, 0.5);
+	position: absolute;
+	bottom: 20px;
+	
+
+}
+.position {
+	padding: 40px 0;
+}
